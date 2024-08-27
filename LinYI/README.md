@@ -6,6 +6,3 @@
 - SPI_MISO_PIN    14
 - SPI_CS_PIN      13
 - PMW3610_IRQ_PIN 16
-
-## 原理图链接
-https://oshwhub.com/aiqu/2-4g-fa-song-duan-dian-lu-tu
